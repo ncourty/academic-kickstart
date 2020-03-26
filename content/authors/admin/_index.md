@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Nicolas Courty
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Full Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Université de Bretagne Sud
+  url: "https://www.univ-ubs.fr/fr/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, computer vision and remote sensing.
 
 interests:
 - Artificial Intelligence
@@ -47,13 +47,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/nicolas_courty
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.fr/citations?user=ibEREjcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ncourty
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently an Full Professor in computer science at <a href="http://www.univ-ubs.fr">
+                            University of Bretagne Sud</a>.
+                        My research activities take part in the  <a
+                            href="https://www-obelix.irisa.fr">OBELIX</a> group (<a
+                            href="http://www.irisa.fr">IRISA</a> laboratory from<a
+                            href="http://www.univ-ubs.fr"> University of Bretagne-Sud</a>). My main research objectives are artificial intelligence and machine learning, with applications in computer vision, remote sensing and computer graphics.<br/><br/>
+                        <b>Keywords:</b> Optimal transport, Statistical learning, kernel methods, manifold and geometric approaches, optimal control
+                        
