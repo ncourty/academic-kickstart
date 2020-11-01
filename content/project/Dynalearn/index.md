@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dynalearn"
+title: "CominLabs Dynalearn (2020--2024)"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-03-27T00:32:17+01:00
+date: 2020-03-27
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+This project aims at contributing on the interactions between deep learning and physical models in a two-fold way: 
+i) by exploring how dynamical formulation of learning process can help in understanding better learning deep neural architectures, as well as proposing new learning paradigms based on the regularization of the flows of information; ii) By leveraging on novel neural architectures and available data to devise new data-driven dynamical simulation models. 

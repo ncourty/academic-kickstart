@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Oatmil"
-summary: ""
+title: "ANR PRC OATMIL (2017--2021)"
+summary: "The OATMIL project is funded by ANR. The goal is to bring innovative use of optimal transport in machine learning, and machine learning for the computation of optimal transport problems. I serve as coordinator for this project"
 authors: []
 tags: []
 categories: []
