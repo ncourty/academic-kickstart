@@ -4,7 +4,7 @@
 title: "Machine Learning Summer School in Saint-Etienne"
 event: Machine Learning Summer School in Saint-Etienne
 event_url: 
-location: Saint Etienne
+location: Saint Etienne, France
 address:
   street:
   city:
